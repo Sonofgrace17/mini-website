@@ -38,7 +38,7 @@
       <img src="image copy 2.png" alt="Project 1">
       <p>Project Title: TaskFlow – Personal Productivity App
 Description:
-Developed a cross-platform productivity app using React Native and Firebase that allows users to manage tasks, set reminders, and track progress. Implemented authentication, offline data sync, and analytics dashboard to enhance user engagemen</p>
+Developed a cross-platform productivity app using React Native and Firebase that allows users to manage tasks, set reminders, and track progress. Implemented authentication, offline data sync, and analytics dashboard to enhance user engagement</p>
     </div>
   </section>
 
