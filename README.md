@@ -49,7 +49,7 @@ Developed a cross-platform productivity app using React Native and Firebase that
   </section>
 
   <footer>
-    <p>© 2025 [Your Name]. All rights reserved.</p>
+    <p>© 2025 [Olubunmi Michael Enitan]. All rights reserved.</p>
   </footer>
 
 </body>
