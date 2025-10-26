@@ -1,1 +1,58 @@
-C PROGRAMMING
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me - [Olubunmi Michael Enitan]</title>
+  <link rel="stylesheet" href="Mywebsites.css">
+</head>
+<body>
+
+  <header>
+    <h1>Hello, I'm <span>[Olubunmi Michael Enitan]</span></h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="image copy.png" alt="Profile picture">
+    <p>Hi! I'm [Olubunmi Michael Enitan], a [student of Aptech]. I love [playing snooker and listening to music].</p>
+  </section>
+
+  <section id="skills">
+    <h2>My Skills</h2>
+    <ul>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+      <li>Graphic Design</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <img src="image copy 2.png" alt="Project 1">
+      <p>Project Title: TaskFlow – Personal Productivity App
+Description:
+Developed a cross-platform productivity app using React Native and Firebase that allows users to manage tasks, set reminders, and track progress. Implemented authentication, offline data sync, and analytics dashboard to enhance user engagemen</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:youremail@example.com">Olubunmimichael93@gmail.com</a></p>
+    <p>Follow me on <a href="https://twitter.com/">Twitter</a> or <a href="https://github.com/">GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+
